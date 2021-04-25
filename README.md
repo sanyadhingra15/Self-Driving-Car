@@ -163,4 +163,8 @@ The model architecture is depicted below with the help of table:
 
 To capture good driving behavior, I recorded three laps on track two using center lane driving and one for recovery lane driving. I then recorded the vehicle recovering from the left side and right sides of the road back to center so that the vehicle would learn to take decisions when the road is not visible to the camera. I also augment the dataset by flipping the images and the angles. Also, introduced random brightness and random translation.
 
+# Result : 
+
+The car successfully steers across the track and predicts correct steering, speed, throttle, reverse, center, left and right values.
+
 
