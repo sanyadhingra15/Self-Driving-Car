@@ -60,9 +60,11 @@ python video.py output-video --fps 48
 
 #### Implementation -
 
-Youtube - https://www.youtube.com/watch?v=2_6eNQr4yAc&feature=youtu.be
-
-![screenshot from 2019-01-02 14-53-48](https://user-images.githubusercontent.com/34116562/50592043-6d2dcc00-0eb8-11e9-8244-5d0654970fd3.png)
+![1](https://user-images.githubusercontent.com/61964833/115986022-06bea180-a5cc-11eb-89a7-7c38223c4db8.png)
+![2](https://user-images.githubusercontent.com/61964833/115986032-0e7e4600-a5cc-11eb-9044-e4d85325e6f5.png)
+![6](https://user-images.githubusercontent.com/61964833/115986039-150cbd80-a5cc-11eb-8e24-4390e549db94.png)
+![9](https://user-images.githubusercontent.com/61964833/115986044-19d17180-a5cc-11eb-9f71-b4b96067ac6c.png)
+![10](https://user-images.githubusercontent.com/61964833/115986048-1ccc6200-a5cc-11eb-8b11-1322e685a277.png)
 
 
 #### 3. Submission code is usable and readable
